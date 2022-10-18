@@ -1,0 +1,1 @@
+# checkout-registration-popup-plugin

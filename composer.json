@@ -1,0 +1,21 @@
+{
+    "name": "wecoder/registration",
+    "description": "Checkout Registration Popup Plugin",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "autoload": {
+        "psr-4": {
+            "Wecoder\\Registration\\": "includes/"
+        },
+        "files": [
+            "includes/functions.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Tarikul Islam"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
